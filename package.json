@@ -1,0 +1,24 @@
+{
+  "name": "@shenyan1206/crypto-helper",
+  "version": "1.0.0",
+  "description": "Crypto Helper",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shenyan1206/crypto-helper.git"
+  },
+  "keywords": [
+    "Crypto",
+    "Helper",
+    "NodeJS"
+  ],
+  "author": "shenyan1206",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/shenyan1206/crypto-helper/issues"
+  },
+  "homepage": "https://github.com/shenyan1206/crypto-helper#readme"
+}
