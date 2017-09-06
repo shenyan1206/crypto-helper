@@ -2,6 +2,7 @@
 Crypto Helper for NodeJS
 
 Support: TDES, DES  with mode ECB and CBC
+
 Padding: PADDING_ZERO, PADDING_PKCS7
 
 
