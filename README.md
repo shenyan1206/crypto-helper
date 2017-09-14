@@ -24,6 +24,10 @@ des_dec_ecb(key, data)
 padding(data, padding_type)
 
 unpadding(data, padding_type)
+
+kcv(key)
+
+generateKeyOfSize(size)
 ```
 
 
